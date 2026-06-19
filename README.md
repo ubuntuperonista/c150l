@@ -1,2 +1,5 @@
-# c150l
-New livery for awall86's Cessna C152 II.
+# LV-IWC Cessna C150L II
+
+A new livery for the awall86 Flightgear Cessna C152 II.
+https://github.com/awall086/c152
+
